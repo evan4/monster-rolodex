@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/evan4/monster-rolodex/static/css/main.0b55fb17.chunk.css",
+    "main.js": "/evan4/monster-rolodex/static/js/main.5d0419b5.chunk.js",
+    "main.js.map": "/evan4/monster-rolodex/static/js/main.5d0419b5.chunk.js.map",
+    "runtime-main.js": "/evan4/monster-rolodex/static/js/runtime-main.7e7decf3.js",
+    "runtime-main.js.map": "/evan4/monster-rolodex/static/js/runtime-main.7e7decf3.js.map",
+    "static/js/2.dfd295bd.chunk.js": "/evan4/monster-rolodex/static/js/2.dfd295bd.chunk.js",
+    "static/js/2.dfd295bd.chunk.js.map": "/evan4/monster-rolodex/static/js/2.dfd295bd.chunk.js.map",
+    "index.html": "/evan4/monster-rolodex/index.html",
+    "precache-manifest.0efb6ff3aa0655ff2e755458684966fe.js": "/evan4/monster-rolodex/precache-manifest.0efb6ff3aa0655ff2e755458684966fe.js",
+    "service-worker.js": "/evan4/monster-rolodex/service-worker.js",
+    "static/css/main.0b55fb17.chunk.css.map": "/evan4/monster-rolodex/static/css/main.0b55fb17.chunk.css.map",
+    "static/js/2.dfd295bd.chunk.js.LICENSE.txt": "/evan4/monster-rolodex/static/js/2.dfd295bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e7decf3.js",
+    "static/js/2.dfd295bd.chunk.js",
+    "static/css/main.0b55fb17.chunk.css",
+    "static/js/main.5d0419b5.chunk.js"
+  ]
+}
